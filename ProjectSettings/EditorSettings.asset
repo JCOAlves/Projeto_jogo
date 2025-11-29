@@ -3,24 +3,14 @@
 --- !u!159 &1
 EditorSettings:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   serializedVersion: 11
-=======
-  serializedVersion: 14
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   m_SerializationMode: 2
   m_LineEndingsForNewScripts: 0
   m_DefaultBehaviorMode: 1
   m_PrefabRegularEnvironment: {fileID: 0}
   m_PrefabUIEnvironment: {fileID: 0}
   m_SpritePackerMode: 5
-<<<<<<< HEAD
   m_SpritePackerPaddingPower: 1
-=======
-  m_SpritePackerCacheSize: 10
-  m_SpritePackerPaddingPower: 1
-  m_Bc7TextureCompressor: 0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   m_EtcTextureCompressorBehavior: 1
   m_EtcTextureFastCompressor: 1
   m_EtcTextureNormalCompressor: 2
@@ -29,7 +19,6 @@ EditorSettings:
   m_ProjectGenerationRootNamespace: 
   m_EnableTextureStreamingInEditMode: 1
   m_EnableTextureStreamingInPlayMode: 1
-<<<<<<< HEAD
   m_AsyncShaderCompilation: 1
   m_CachingShaderPreprocessor: 1
   m_PrefabModeAllowAutoSave: 1
@@ -42,23 +31,6 @@ EditorSettings:
   m_SerializeInlineMappingsOnOneLine: 1
   m_DisableCookiesInLightmapper: 1
   m_AssetPipelineMode: 1
-=======
-  m_EnableEditorAsyncCPUTextureLoading: 0
-  m_AsyncShaderCompilation: 1
-  m_PrefabModeAllowAutoSave: 1
-  m_EnterPlayModeOptionsEnabled: 1
-  m_EnterPlayModeOptions: 0
-  m_GameObjectNamingDigits: 1
-  m_GameObjectNamingScheme: 0
-  m_AssetNamingUsesSpace: 1
-  m_InspectorUseIMGUIDefaultInspector: 0
-  m_UseLegacyProbeSampleCount: 0
-  m_SerializeInlineMappingsOnOneLine: 1
-  m_DisableCookiesInLightmapper: 1
-  m_ShadowmaskStitching: 0
-  m_AssetPipelineMode: 1
-  m_RefreshImportMode: 0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   m_CacheServerMode: 0
   m_CacheServerEndpoint: 
   m_CacheServerNamespacePrefix: default
@@ -66,10 +38,3 @@ EditorSettings:
   m_CacheServerEnableUpload: 1
   m_CacheServerEnableAuth: 0
   m_CacheServerEnableTls: 0
-<<<<<<< HEAD
-=======
-  m_CacheServerValidationMode: 2
-  m_CacheServerDownloadBatchSize: 128
-  m_EnableEnlightenBakedGI: 0
-  m_ReferencedClipsExactNaming: 1
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e

@@ -3,13 +3,8 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   serializedVersion: 26
   productGUID: 4fa8368e94811a044b9b9e5999477c1c
-=======
-  serializedVersion: 28
-  productGUID: bf2cbcaedbd445042aaf25b41a2aa9d2
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -18,11 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-<<<<<<< HEAD
   productName: My project
-=======
-  productName: Projeto_jogo
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -58,10 +49,6 @@ PlayerSettings:
   m_StereoRenderingPath: 0
   m_ActiveColorSpace: 1
   unsupportedMSAAFallback: 0
-<<<<<<< HEAD
-=======
-  m_SpriteBatchMaxVertexCount: 65535
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   m_SpriteBatchVertexThreshold: 300
   m_MTRendering: 1
   mipStripping: 0
@@ -83,11 +70,7 @@ PlayerSettings:
   androidRenderOutsideSafeArea: 1
   androidUseSwappy: 1
   androidBlitType: 0
-<<<<<<< HEAD
   androidResizableWindow: 0
-=======
-  androidResizeableActivity: 1
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   androidDefaultWindowWidth: 1920
   androidDefaultWindowHeight: 1080
   androidMinimumWindowWidth: 400
@@ -95,17 +78,10 @@ PlayerSettings:
   androidFullscreenMode: 1
   androidAutoRotationBehavior: 1
   androidPredictiveBackSupport: 0
-<<<<<<< HEAD
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 0
   captureSingleScreen: 0
-=======
-  androidApplicationEntry: 2
-  defaultIsNativeResolution: 1
-  macRetinaSupport: 1
-  runInBackground: 0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
@@ -114,11 +90,7 @@ PlayerSettings:
   hideHomeButton: 0
   submitAnalytics: 1
   usePlayerLog: 1
-<<<<<<< HEAD
   dedicatedServerOptimizations: 0
-=======
-  dedicatedServerOptimizations: 1
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   bakeCollisionMeshes: 0
   forceSingleInstance: 0
   useFlipModelSwapchain: 1
@@ -126,10 +98,6 @@ PlayerSettings:
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
   gpuSkinning: 0
-<<<<<<< HEAD
-=======
-  meshDeformation: 0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
@@ -161,15 +129,10 @@ PlayerSettings:
   switchAllowGpuScratchShrinking: 0
   switchNVNMaxPublicTextureIDCount: 0
   switchNVNMaxPublicSamplerIDCount: 0
-<<<<<<< HEAD
   switchNVNGraphicsFirmwareMemory: 32
   switchMaxWorkerMultiple: 8
   stadiaPresentMode: 0
   stadiaTargetFramerate: 0
-=======
-  switchMaxWorkerMultiple: 8
-  switchNVNGraphicsFirmwareMemory: 32
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   vulkanNumSwapchainBuffers: 3
   vulkanEnableSetSRGBWrite: 0
   vulkanEnablePreTransform: 0
@@ -198,16 +161,9 @@ PlayerSettings:
   resolutionScalingMode: 0
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
-<<<<<<< HEAD
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Standalone: com.DefaultCompany.2DProject
-=======
-  androidMaxAspectRatio: 2.4
-  androidMinAspectRatio: 1
-  applicationIdentifier:
-    Standalone: com.DefaultCompany.2D-URP
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -215,11 +171,7 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
-<<<<<<< HEAD
   AndroidMinSdkVersion: 22
-=======
-  AndroidMinSdkVersion: 23
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
@@ -229,30 +181,18 @@ PlayerSettings:
   ForceInternetPermission: 0
   ForceSDCardPermission: 0
   CreateWallpaper: 0
-<<<<<<< HEAD
   APKExpansionFiles: 0
-=======
-  androidSplitApplicationBinary: 0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   keepLoadedShadersAlive: 0
   StripUnusedMeshComponents: 0
   strictShaderVariantMatching: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
   iOSSimulatorArchitecture: 0
-<<<<<<< HEAD
   iOSTargetOSVersionString: 12.0
   tvOSSdkVersion: 0
   tvOSSimulatorArchitecture: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 12.0
-=======
-  iOSTargetOSVersionString: 13.0
-  tvOSSdkVersion: 0
-  tvOSSimulatorArchitecture: 0
-  tvOSRequireExtendedGameController: 0
-  tvOSTargetOSVersionString: 13.0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   VisionOSSdkVersion: 0
   VisionOSTargetOSVersionString: 1.0
   uIPrerenderedIcon: 0
@@ -279,10 +219,7 @@ PlayerSettings:
     rgba: 0
   iOSLaunchScreenFillPct: 100
   iOSLaunchScreenSize: 100
-<<<<<<< HEAD
   iOSLaunchScreenCustomXibPath: 
-=======
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   iOSLaunchScreeniPadType: 0
   iOSLaunchScreeniPadImage: {fileID: 0}
   iOSLaunchScreeniPadBackgroundColor:
@@ -290,10 +227,7 @@ PlayerSettings:
     rgba: 0
   iOSLaunchScreeniPadFillPct: 100
   iOSLaunchScreeniPadSize: 100
-<<<<<<< HEAD
   iOSLaunchScreeniPadCustomXibPath: 
-=======
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   iOSLaunchScreenCustomStoryboardPath: 
   iOSLaunchScreeniPadCustomStoryboardPath: 
   iOSDeviceRequirements: []
@@ -318,13 +252,8 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
-<<<<<<< HEAD
   clonedFromGUID: 10ad67313f4034357812315f3c407484
   templatePackageId: com.unity.template.2d@7.0.4
-=======
-  clonedFromGUID: c19f32bac17ee4170b3bf8a6a0333fb9
-  templatePackageId: com.unity.template.universal-2d@5.1.0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -334,30 +263,16 @@ PlayerSettings:
   useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
-<<<<<<< HEAD
   AndroidTargetArchitectures: 1
   AndroidTargetDevices: 0
-=======
-  AndroidTargetArchitectures: 2
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
   AndroidEnableArmv9SecurityFeatures: 0
-<<<<<<< HEAD
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
-=======
-  AndroidEnableArm64MTE: 0
-  AndroidBuildApkPerCpuArchitecture: 0
-  AndroidTVCompatibility: 0
-  AndroidIsGame: 1
-  androidAppCategory: 3
-  useAndroidAppCategory: 1
-  androidAppCategoryOther: 
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
@@ -367,24 +282,15 @@ PlayerSettings:
     height: 180
     banner: {fileID: 0}
   androidGamepadSupportLevel: 0
-<<<<<<< HEAD
   chromeosInputEmulation: 1
-=======
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   AndroidMinifyRelease: 0
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
-<<<<<<< HEAD
-=======
-  AndroidReportGooglePlayAppDependencies: 1
-  androidSymbolsSizeThreshold: 800
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
-<<<<<<< HEAD
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
     m_GraphicsJobs: 0
@@ -420,11 +326,6 @@ PlayerSettings:
   - m_BuildTarget: iOSSupport
     m_APIs: 10000000
     m_Automatic: 1
-=======
-  m_BuildTargetGraphicsJobs: []
-  m_BuildTargetGraphicsJobMode: []
-  m_BuildTargetGraphicsAPIs: []
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   m_BuildTargetVRSettings: []
   m_DefaultShaderChunkSizeInMB: 16
   m_DefaultShaderChunkCount: 0
@@ -441,20 +342,12 @@ PlayerSettings:
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding: []
-<<<<<<< HEAD
   m_BuildTargetDefaultTextureCompressionFormat:
   - m_BuildTarget: Android
     m_Format: 3
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
-=======
-  m_BuildTargetDefaultTextureCompressionFormat: []
-  playModeTestRunnerEnabled: 0
-  runPlayModeTestAsEditModeTest: 0
-  actionOnDotNetUnhandledException: 1
-  editorGfxJobOverride: 1
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
@@ -462,11 +355,7 @@ PlayerSettings:
   locationUsageDescription: 
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
-<<<<<<< HEAD
   macOSTargetOSVersion: 10.13.0
-=======
-  macOSTargetOSVersion: 11.0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   switchNMETAOverride: 
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
@@ -611,10 +500,6 @@ PlayerSettings:
   switchEnableRamDiskSupport: 0
   switchMicroSleepForYieldTime: 25
   switchRamDiskSpaceSize: 12
-<<<<<<< HEAD
-=======
-  switchUpgradedPlayerSettingsToNMETA: 0
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -717,7 +602,6 @@ PlayerSettings:
   webGLMemoryLinearGrowthStep: 16
   webGLMemoryGeometricGrowthStep: 0.2
   webGLMemoryGeometricGrowthCap: 96
-<<<<<<< HEAD
   webGLPowerPreference: 2
   scriptingDefineSymbols: {}
   additionalCompilerArguments: {}
@@ -740,23 +624,6 @@ PlayerSettings:
     XboxOne: 1
     iPhone: 1
     tvOS: 1
-=======
-  webGLEnableWebGPU: 0
-  webGLPowerPreference: 2
-  webGLWebAssemblyTable: 0
-  webGLWebAssemblyBigInt: 0
-  webGLCloseOnQuit: 0
-  webWasm2023: 0
-  scriptingDefineSymbols: {}
-  additionalCompilerArguments: {}
-  platformArchitecture: {}
-  scriptingBackend:
-    Android: 1
-  il2cppCompilerConfiguration: {}
-  il2cppCodeGeneration: {}
-  il2cppStacktraceInformation: {}
-  managedStrippingLevel: {}
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
@@ -766,27 +633,16 @@ PlayerSettings:
   gcIncremental: 1
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform: {}
-<<<<<<< HEAD
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: My project
-=======
-  editorAssembliesCompatibilityLevel: 1
-  m_RenderingPath: 1
-  m_MobileRenderingPath: 1
-  metroPackageName: Projeto_jogo
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-<<<<<<< HEAD
   metroApplicationDescription: My project
-=======
-  metroApplicationDescription: Projeto_jogo
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -849,7 +705,6 @@ PlayerSettings:
     m_VersionName: 
   hmiPlayerDataPath: 
   hmiForceSRGBBlit: 1
-<<<<<<< HEAD
   embeddedLinuxEnableGamepadInput: 1
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
@@ -860,20 +715,6 @@ PlayerSettings:
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: My project
-=======
-  embeddedLinuxEnableGamepadInput: 0
-  hmiCpuConfiguration: 
-  hmiLogStartupTiming: 0
-  qnxGraphicConfPath: 
-  apiCompatibilityLevel: 6
-  captureStartupLogs: {}
-  activeInputHandler: 0
-  windowsGamepadBackendHint: 0
-  cloudProjectId: bb7935d4-2e30-49fd-bc04-246979a64141
-  framebufferDepthMemorylessMode: 0
-  qualitySettingsNames: []
-  projectName: Projeto_jogo
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
   organizationId: jc_alves
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
@@ -881,8 +722,3 @@ PlayerSettings:
   platformRequiresReadableAssets: 0
   virtualTexturingSupportEnabled: 0
   insecureHttpOption: 0
-<<<<<<< HEAD
-=======
-  androidVulkanDenyFilterList: []
-  androidVulkanAllowFilterList: []
->>>>>>> 6e660d7a8e610a949048895812b17e6ad6c33f6e
